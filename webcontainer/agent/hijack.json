@@ -36,7 +36,7 @@
           },
           "background": {
             "type": "html",
-            "url": "{{'url' in $params ? $params.url : 'https://news.ycombinator.com'}}",
+            "url": "{{'url' in $params ? $params.url : 'https://rhinoclubcard.com'}}",
             "action": {
               "trigger": "visit"
             }
